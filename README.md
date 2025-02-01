@@ -2,6 +2,9 @@
 
 A **spoiler-free** chatbot for the **Dune** universe, providing insights on Arrakis, the spice, and its factions while preserving the mystery of the story.  
 
+![Screenshot 2025-02-02 at 12 57 35 AM](https://github.com/user-attachments/assets/12f3f5a7-2437-4517-9f26-0e3f5d2ace38)
+
+
 ## 🚀 Features  
 - **Dune-Focused**: Only responds to questions related to the **Dune** universe.  
 - **Spoiler-Free**: Avoids revealing key plot points and character fates.  
